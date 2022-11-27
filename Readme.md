@@ -17,3 +17,5 @@ editor de swagger online - https://editor.swagger.io/
 
 Para executar os testes de integração, é preciso ter uma  instância do SQL Server em execução.
 
+<img src="bancoDados.png">
+<img src="Swagger.png">
