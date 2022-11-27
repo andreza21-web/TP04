@@ -9,6 +9,8 @@ Lidiane Souza Soares Matricula: CB3012026
 
 ## Rodar aplicação
 
+link da aplicação : https://youtu.be/B4dxaXsid6Y
+
 editor de swagger online - https://editor.swagger.io/
 
 ### Teste de Integração
